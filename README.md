@@ -174,6 +174,20 @@ Season_End_Year              Wk            Date            Home       HomeGoals 
 
 No missing values at this data
 
+```
+head(PL)
+```
+
+```
+  Season_End_Year Wk       Date           Home HomeGoals AwayGoals           Away FTR
+1            1993  1 1992-08-15  Coventry City         2         1  Middlesbrough   H
+2            1993  1 1992-08-15   Leeds United         2         1      Wimbledon   H
+3            1993  1 1992-08-15  Sheffield Utd         2         1 Manchester Utd   H
+4            1993  1 1992-08-15 Crystal Palace         3         3      Blackburn   D
+5            1993  1 1992-08-15        Arsenal         2         4   Norwich City   A
+6            1993  1 1992-08-15   Ipswich Town         1         1    Aston Villa   D
+```
+
 # 4.Analyze phase
 
 We will come out and try to answer the first question.
